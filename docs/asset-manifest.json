@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AppleProductList/static/css/main.2883d2b8.css",
+    "main.js": "/AppleProductList/static/js/main.f5638278.js",
+    "static/js/787.216d1c17.chunk.js": "/AppleProductList/static/js/787.216d1c17.chunk.js",
+    "static/media/iphone-13-pro.png": "/AppleProductList/static/media/iphone-13-pro.09885792bb718e0698c3.png",
+    "static/media/iphone-13-.png": "/AppleProductList/static/media/iphone-13-.c6a0d03e9aaef4b74574.png",
+    "static/media/mbp14.jpg": "/AppleProductList/static/media/mbp14.24ec725989eeeb0c860c.jpg",
+    "static/media/mbp13.jpg": "/AppleProductList/static/media/mbp13.edc91f6b9a5a6200e601.jpg",
+    "static/media/iphone-se.jpg": "/AppleProductList/static/media/iphone-se.ca30b9e0aeb01ddd8160.jpg",
+    "static/media/mba.jpg": "/AppleProductList/static/media/mba.faf91618710a9b675b78.jpg",
+    "index.html": "/AppleProductList/index.html",
+    "main.2883d2b8.css.map": "/AppleProductList/static/css/main.2883d2b8.css.map",
+    "main.f5638278.js.map": "/AppleProductList/static/js/main.f5638278.js.map",
+    "787.216d1c17.chunk.js.map": "/AppleProductList/static/js/787.216d1c17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2883d2b8.css",
+    "static/js/main.f5638278.js"
+  ]
+}
